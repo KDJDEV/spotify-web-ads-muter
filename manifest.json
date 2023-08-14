@@ -1,0 +1,24 @@
+{
+   "manifest_version": 3,
+   "name": "Spotify Add Muter",
+   "version": "1.0.0",
+   "description": "Mutes spotify ads.",
+   "icons": {
+      "128": "icon.png"
+   },
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "content_scripts": [
+      {
+         "matches": [
+            "https://open.spotify.com/*"
+         ],
+         "run_at": "document_idle",
+         "js": [
+            "csMain.js"
+         ]
+      }
+   ]
+}
