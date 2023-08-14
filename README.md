@@ -5,6 +5,8 @@ It is very simple, actually: only 10 lines of code. [^1]
 
 The extension only mutes the page when ads appear, instead of skipping them. This is fine for me personally, as I like a little bit of time in between songs when working anyway.
 
+It's also important to note that this extension will only work on the Spotify web app. It will not work on the mobile or desktop apps.
+
 ## Motivations for creation
 I enjoy listening to classical music on Spotify while working.
 The problem is that the Spotify ads are **so loud** compared to the music I'm listening to.
