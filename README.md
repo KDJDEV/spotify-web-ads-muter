@@ -7,6 +7,12 @@ The extension only mutes the page when ads appear, instead of skipping them. Thi
 
 It's also important to note that this extension will only work on the Spotify web app. It will not work on the mobile or desktop apps.
 
+## Installation
+You can install it from the Chrome Web Store here:
+https://chrome.google.com/webstore/detail/spotify-add-muter/apcpafaaebpmmephjgccmkbjgihoihic
+
+You can also load the extension from the source by navigating to "chrome://extensions/" in your browser, and clicking "Load unpacked" to load the source.
+
 ## Motivations for creation
 I enjoy listening to classical music on Spotify while working.
 The problem is that the Spotify ads are **so loud** compared to the music I'm listening to.
